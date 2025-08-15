@@ -7,7 +7,7 @@ from datetime import datetime
 db_config = {
     "host": "127.0.0.1",
     "user": "root",
-    "password": "Sivask@21sk",
+    "password": "Yes",
     "database": "student_monitoring"
 }
 
@@ -94,3 +94,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
